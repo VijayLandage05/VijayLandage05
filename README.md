@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VijayLandage05
-- 👀 I’m interested in Software Development Technolgoies and Web Development Technologies
+- 👀 I’m interested in Software Development Technologies and Web Development Technologies
 - 🌱 I’m currently learning JAVA,Database,MySQL,MongoDB,HTML,CSS,JavaScript,ReactJs,NodeJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me landagevijay781@gmail.com
